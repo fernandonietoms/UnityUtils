@@ -13,7 +13,7 @@
   <summary><h2>Description</h2></summary>
   <hr>
     <ul>
-      <li>The purpose of this script is to have an public static method to Save & Load any type of MonoBehaviour script on a Unity Project.</li>
+      <li>The purpose of this script is to have an public static method to Save & Load any type of script (MonoBehaviour instances included) on a Unity Project.</li>
       <li><b>Tested Version</b>: Unity 6</li>
     </ul>
 </details>
